@@ -12,3 +12,5 @@ A breakdown of the model is the following:
 * Analyzer
 * Query Planner
 * Execution
+
+I learned Dynamic array resizing, pointers, basic C and SQL syntax in this project. 
